@@ -1,0 +1,17 @@
+body {
+  width: 350px;
+  height: 400px;
+  background-color: ghostwhite;
+}
+
+h1 {
+  color: blue;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  height: 40px;
+  background-color: mediumvioletred;
+  margin: -5px;
+}
